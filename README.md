@@ -53,18 +53,19 @@ ems-main/ ├── public/ │ └── vite.svg ├── src/ │ ├── 
    ```sh
    git clone <your-repo-url>
    cd ems-main
+
+2. **Or download project respository:**
+   ```sh
+   Click on code
+   then click on download zip
    
-2. **Or Download the respository: **:
-   Click on Code
-   Click on Download
-   
-4. **Install dependencies:**
+3. **Install dependencies:**
    npm install
    
-5. **Run the development server:**
+4. **Run the development server:**
    npm run dev
    
-6. **Open http://localhost:5173 in your browser**.
+5. **Open http://localhost:5173 in your browser**.
 ---
 **Usage**
 **-Login**
@@ -350,7 +351,7 @@ The application initializes with the following data in localStorage:
   }
 ]
 
-### Admin
+**Admin**
 [
   {
     "id": 1,
