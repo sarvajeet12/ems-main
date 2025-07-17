@@ -1,5 +1,5 @@
 Here is a detailed README documentation for your project, explaining the structure, features, usage, and expected output.
-# Employee Management System (EMS)
+# Employee Management System (EMS) - Assignment
 
 A simple Employee Management System built with **React** and **Vite**, styled using **Tailwind CSS**. This project allows an admin to assign tasks to employees, and employees to view and manage their tasks.
 For storing Data use : Localstorage and for Global State Management use : Context Api
